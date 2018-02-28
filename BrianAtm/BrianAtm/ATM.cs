@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Assignment_1_C_Sharp
 {
     //            !!!!!!!!!!! PERSONAL NOTE !!!!!!!!!!!!!!!!!
-    //         LOOK AT A CALC INTEREST METHOD EXAMPLE IN FILES
+    //         LOOK AT A CALC INTEREST METHOD EXAMPLE IN FILES!
     class ATM
     {
 
