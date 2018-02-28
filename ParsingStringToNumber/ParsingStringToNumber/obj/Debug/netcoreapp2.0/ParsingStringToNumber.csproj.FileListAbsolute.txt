@@ -1,0 +1,11 @@
+/Users/yokoref/Projects/ParsingStringToNumber/ParsingStringToNumber/bin/Debug/netcoreapp2.0/ParsingStringToNumber.deps.json
+/Users/yokoref/Projects/ParsingStringToNumber/ParsingStringToNumber/bin/Debug/netcoreapp2.0/ParsingStringToNumber.runtimeconfig.json
+/Users/yokoref/Projects/ParsingStringToNumber/ParsingStringToNumber/bin/Debug/netcoreapp2.0/ParsingStringToNumber.runtimeconfig.dev.json
+/Users/yokoref/Projects/ParsingStringToNumber/ParsingStringToNumber/bin/Debug/netcoreapp2.0/ParsingStringToNumber.dll
+/Users/yokoref/Projects/ParsingStringToNumber/ParsingStringToNumber/bin/Debug/netcoreapp2.0/ParsingStringToNumber.pdb
+/Users/yokoref/Projects/ParsingStringToNumber/ParsingStringToNumber/obj/Debug/netcoreapp2.0/ParsingStringToNumber.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/ParsingStringToNumber/ParsingStringToNumber/obj/Debug/netcoreapp2.0/ParsingStringToNumber.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/ParsingStringToNumber/ParsingStringToNumber/obj/Debug/netcoreapp2.0/ParsingStringToNumber.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/ParsingStringToNumber/ParsingStringToNumber/obj/Debug/netcoreapp2.0/ParsingStringToNumber.AssemblyInfo.cs
+/Users/yokoref/Projects/ParsingStringToNumber/ParsingStringToNumber/obj/Debug/netcoreapp2.0/ParsingStringToNumber.dll
+/Users/yokoref/Projects/ParsingStringToNumber/ParsingStringToNumber/obj/Debug/netcoreapp2.0/ParsingStringToNumber.pdb

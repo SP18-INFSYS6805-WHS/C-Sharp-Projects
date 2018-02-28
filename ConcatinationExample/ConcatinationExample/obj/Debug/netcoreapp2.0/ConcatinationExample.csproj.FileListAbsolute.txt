@@ -1,0 +1,11 @@
+/Users/yokoref/Projects/ConcatinationExample/ConcatinationExample/bin/Debug/netcoreapp2.0/ConcatinationExample.deps.json
+/Users/yokoref/Projects/ConcatinationExample/ConcatinationExample/bin/Debug/netcoreapp2.0/ConcatinationExample.runtimeconfig.json
+/Users/yokoref/Projects/ConcatinationExample/ConcatinationExample/bin/Debug/netcoreapp2.0/ConcatinationExample.runtimeconfig.dev.json
+/Users/yokoref/Projects/ConcatinationExample/ConcatinationExample/bin/Debug/netcoreapp2.0/ConcatinationExample.dll
+/Users/yokoref/Projects/ConcatinationExample/ConcatinationExample/bin/Debug/netcoreapp2.0/ConcatinationExample.pdb
+/Users/yokoref/Projects/ConcatinationExample/ConcatinationExample/obj/Debug/netcoreapp2.0/ConcatinationExample.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/ConcatinationExample/ConcatinationExample/obj/Debug/netcoreapp2.0/ConcatinationExample.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/ConcatinationExample/ConcatinationExample/obj/Debug/netcoreapp2.0/ConcatinationExample.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/ConcatinationExample/ConcatinationExample/obj/Debug/netcoreapp2.0/ConcatinationExample.AssemblyInfo.cs
+/Users/yokoref/Projects/ConcatinationExample/ConcatinationExample/obj/Debug/netcoreapp2.0/ConcatinationExample.dll
+/Users/yokoref/Projects/ConcatinationExample/ConcatinationExample/obj/Debug/netcoreapp2.0/ConcatinationExample.pdb

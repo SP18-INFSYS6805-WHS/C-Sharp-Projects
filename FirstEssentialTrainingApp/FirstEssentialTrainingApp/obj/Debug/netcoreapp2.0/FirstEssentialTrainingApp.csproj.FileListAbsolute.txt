@@ -1,0 +1,11 @@
+/Users/yokoref/Projects/FirstEssentialTrainingApp/FirstEssentialTrainingApp/bin/Debug/netcoreapp2.0/FirstEssentialTrainingApp.deps.json
+/Users/yokoref/Projects/FirstEssentialTrainingApp/FirstEssentialTrainingApp/bin/Debug/netcoreapp2.0/FirstEssentialTrainingApp.runtimeconfig.json
+/Users/yokoref/Projects/FirstEssentialTrainingApp/FirstEssentialTrainingApp/bin/Debug/netcoreapp2.0/FirstEssentialTrainingApp.runtimeconfig.dev.json
+/Users/yokoref/Projects/FirstEssentialTrainingApp/FirstEssentialTrainingApp/bin/Debug/netcoreapp2.0/FirstEssentialTrainingApp.dll
+/Users/yokoref/Projects/FirstEssentialTrainingApp/FirstEssentialTrainingApp/bin/Debug/netcoreapp2.0/FirstEssentialTrainingApp.pdb
+/Users/yokoref/Projects/FirstEssentialTrainingApp/FirstEssentialTrainingApp/obj/Debug/netcoreapp2.0/FirstEssentialTrainingApp.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/FirstEssentialTrainingApp/FirstEssentialTrainingApp/obj/Debug/netcoreapp2.0/FirstEssentialTrainingApp.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/FirstEssentialTrainingApp/FirstEssentialTrainingApp/obj/Debug/netcoreapp2.0/FirstEssentialTrainingApp.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/FirstEssentialTrainingApp/FirstEssentialTrainingApp/obj/Debug/netcoreapp2.0/FirstEssentialTrainingApp.AssemblyInfo.cs
+/Users/yokoref/Projects/FirstEssentialTrainingApp/FirstEssentialTrainingApp/obj/Debug/netcoreapp2.0/FirstEssentialTrainingApp.dll
+/Users/yokoref/Projects/FirstEssentialTrainingApp/FirstEssentialTrainingApp/obj/Debug/netcoreapp2.0/FirstEssentialTrainingApp.pdb

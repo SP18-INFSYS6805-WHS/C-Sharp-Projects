@@ -1,0 +1,11 @@
+/Users/yokoref/Projects/U_Constructors/U_Constructors/bin/Debug/netcoreapp2.0/U_Constructors.deps.json
+/Users/yokoref/Projects/U_Constructors/U_Constructors/bin/Debug/netcoreapp2.0/U_Constructors.runtimeconfig.json
+/Users/yokoref/Projects/U_Constructors/U_Constructors/bin/Debug/netcoreapp2.0/U_Constructors.runtimeconfig.dev.json
+/Users/yokoref/Projects/U_Constructors/U_Constructors/bin/Debug/netcoreapp2.0/U_Constructors.dll
+/Users/yokoref/Projects/U_Constructors/U_Constructors/bin/Debug/netcoreapp2.0/U_Constructors.pdb
+/Users/yokoref/Projects/U_Constructors/U_Constructors/obj/Debug/netcoreapp2.0/U_Constructors.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/U_Constructors/U_Constructors/obj/Debug/netcoreapp2.0/U_Constructors.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/U_Constructors/U_Constructors/obj/Debug/netcoreapp2.0/U_Constructors.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/U_Constructors/U_Constructors/obj/Debug/netcoreapp2.0/U_Constructors.AssemblyInfo.cs
+/Users/yokoref/Projects/U_Constructors/U_Constructors/obj/Debug/netcoreapp2.0/U_Constructors.dll
+/Users/yokoref/Projects/U_Constructors/U_Constructors/obj/Debug/netcoreapp2.0/U_Constructors.pdb

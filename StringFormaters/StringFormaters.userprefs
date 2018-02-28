@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{CA81C7EC-D98D-49A2-857D-6359BF48011D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StringFormaters/Program.cs">
+    <Files>
+      <File FileName="StringFormaters/Program.cs" Line="9" Column="83" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StringFormaters" expanded="True">
+            <Node name="StringFormaters" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.StringFormaters PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

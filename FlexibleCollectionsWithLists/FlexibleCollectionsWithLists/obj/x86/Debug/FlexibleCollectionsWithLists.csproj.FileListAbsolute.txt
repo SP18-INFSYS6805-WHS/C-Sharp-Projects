@@ -1,0 +1,5 @@
+/Users/yokoref/Projects/FlexibleCollectionsWithLists/FlexibleCollectionsWithLists/bin/Debug/FlexibleCollectionsWithLists.exe
+/Users/yokoref/Projects/FlexibleCollectionsWithLists/FlexibleCollectionsWithLists/bin/Debug/FlexibleCollectionsWithLists.pdb
+/Users/yokoref/Projects/FlexibleCollectionsWithLists/FlexibleCollectionsWithLists/obj/x86/Debug/FlexibleCollectionsWithLists.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/FlexibleCollectionsWithLists/FlexibleCollectionsWithLists/obj/x86/Debug/FlexibleCollectionsWithLists.exe
+/Users/yokoref/Projects/FlexibleCollectionsWithLists/FlexibleCollectionsWithLists/obj/x86/Debug/FlexibleCollectionsWithLists.pdb

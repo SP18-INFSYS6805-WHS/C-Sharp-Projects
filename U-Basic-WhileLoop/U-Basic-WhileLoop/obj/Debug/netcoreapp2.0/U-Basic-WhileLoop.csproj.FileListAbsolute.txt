@@ -1,0 +1,11 @@
+/Users/yokoref/Projects/U-Basic-WhileLoop/U-Basic-WhileLoop/bin/Debug/netcoreapp2.0/U-Basic-WhileLoop.deps.json
+/Users/yokoref/Projects/U-Basic-WhileLoop/U-Basic-WhileLoop/bin/Debug/netcoreapp2.0/U-Basic-WhileLoop.runtimeconfig.json
+/Users/yokoref/Projects/U-Basic-WhileLoop/U-Basic-WhileLoop/bin/Debug/netcoreapp2.0/U-Basic-WhileLoop.runtimeconfig.dev.json
+/Users/yokoref/Projects/U-Basic-WhileLoop/U-Basic-WhileLoop/bin/Debug/netcoreapp2.0/U-Basic-WhileLoop.dll
+/Users/yokoref/Projects/U-Basic-WhileLoop/U-Basic-WhileLoop/bin/Debug/netcoreapp2.0/U-Basic-WhileLoop.pdb
+/Users/yokoref/Projects/U-Basic-WhileLoop/U-Basic-WhileLoop/obj/Debug/netcoreapp2.0/U-Basic-WhileLoop.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/U-Basic-WhileLoop/U-Basic-WhileLoop/obj/Debug/netcoreapp2.0/U-Basic-WhileLoop.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/U-Basic-WhileLoop/U-Basic-WhileLoop/obj/Debug/netcoreapp2.0/U-Basic-WhileLoop.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/U-Basic-WhileLoop/U-Basic-WhileLoop/obj/Debug/netcoreapp2.0/U-Basic-WhileLoop.AssemblyInfo.cs
+/Users/yokoref/Projects/U-Basic-WhileLoop/U-Basic-WhileLoop/obj/Debug/netcoreapp2.0/U-Basic-WhileLoop.dll
+/Users/yokoref/Projects/U-Basic-WhileLoop/U-Basic-WhileLoop/obj/Debug/netcoreapp2.0/U-Basic-WhileLoop.pdb

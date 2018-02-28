@@ -1,0 +1,11 @@
+/Users/yokoref/Projects/LoopingArrays/LoopingArrays/bin/Debug/netcoreapp2.0/LoopingArrays.deps.json
+/Users/yokoref/Projects/LoopingArrays/LoopingArrays/bin/Debug/netcoreapp2.0/LoopingArrays.runtimeconfig.json
+/Users/yokoref/Projects/LoopingArrays/LoopingArrays/bin/Debug/netcoreapp2.0/LoopingArrays.runtimeconfig.dev.json
+/Users/yokoref/Projects/LoopingArrays/LoopingArrays/bin/Debug/netcoreapp2.0/LoopingArrays.dll
+/Users/yokoref/Projects/LoopingArrays/LoopingArrays/bin/Debug/netcoreapp2.0/LoopingArrays.pdb
+/Users/yokoref/Projects/LoopingArrays/LoopingArrays/obj/Debug/netcoreapp2.0/LoopingArrays.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/LoopingArrays/LoopingArrays/obj/Debug/netcoreapp2.0/LoopingArrays.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/LoopingArrays/LoopingArrays/obj/Debug/netcoreapp2.0/LoopingArrays.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/LoopingArrays/LoopingArrays/obj/Debug/netcoreapp2.0/LoopingArrays.AssemblyInfo.cs
+/Users/yokoref/Projects/LoopingArrays/LoopingArrays/obj/Debug/netcoreapp2.0/LoopingArrays.dll
+/Users/yokoref/Projects/LoopingArrays/LoopingArrays/obj/Debug/netcoreapp2.0/LoopingArrays.pdb

@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{4F7FE74D-6A41-45C5-B8A8-AE7FFA7A391D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GradeBook_Multi_Student/GradeBook.cs">
+    <Files>
+      <File FileName="GradeBook_Multi_Student/Program.cs" Line="9" Column="69" />
+      <File FileName="GradeBook_Multi_Student/GradeBook.cs" Line="8" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GradeBook__Multi__Student PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

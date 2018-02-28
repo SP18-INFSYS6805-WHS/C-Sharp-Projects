@@ -1,0 +1,11 @@
+/Users/yokoref/Projects/U_Inheritance/U_Inheritance/bin/Debug/netcoreapp2.0/U_Inheritance.deps.json
+/Users/yokoref/Projects/U_Inheritance/U_Inheritance/bin/Debug/netcoreapp2.0/U_Inheritance.runtimeconfig.json
+/Users/yokoref/Projects/U_Inheritance/U_Inheritance/bin/Debug/netcoreapp2.0/U_Inheritance.runtimeconfig.dev.json
+/Users/yokoref/Projects/U_Inheritance/U_Inheritance/bin/Debug/netcoreapp2.0/U_Inheritance.dll
+/Users/yokoref/Projects/U_Inheritance/U_Inheritance/bin/Debug/netcoreapp2.0/U_Inheritance.pdb
+/Users/yokoref/Projects/U_Inheritance/U_Inheritance/obj/Debug/netcoreapp2.0/U_Inheritance.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/U_Inheritance/U_Inheritance/obj/Debug/netcoreapp2.0/U_Inheritance.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/U_Inheritance/U_Inheritance/obj/Debug/netcoreapp2.0/U_Inheritance.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/U_Inheritance/U_Inheritance/obj/Debug/netcoreapp2.0/U_Inheritance.AssemblyInfo.cs
+/Users/yokoref/Projects/U_Inheritance/U_Inheritance/obj/Debug/netcoreapp2.0/U_Inheritance.dll
+/Users/yokoref/Projects/U_Inheritance/U_Inheritance/obj/Debug/netcoreapp2.0/U_Inheritance.pdb

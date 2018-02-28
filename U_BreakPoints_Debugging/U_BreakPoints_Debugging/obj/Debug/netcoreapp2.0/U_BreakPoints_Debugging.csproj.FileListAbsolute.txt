@@ -1,0 +1,11 @@
+/Users/yokoref/Projects/U_BreakPoints_Debugging/U_BreakPoints_Debugging/bin/Debug/netcoreapp2.0/U_BreakPoints_Debugging.deps.json
+/Users/yokoref/Projects/U_BreakPoints_Debugging/U_BreakPoints_Debugging/bin/Debug/netcoreapp2.0/U_BreakPoints_Debugging.runtimeconfig.json
+/Users/yokoref/Projects/U_BreakPoints_Debugging/U_BreakPoints_Debugging/bin/Debug/netcoreapp2.0/U_BreakPoints_Debugging.runtimeconfig.dev.json
+/Users/yokoref/Projects/U_BreakPoints_Debugging/U_BreakPoints_Debugging/bin/Debug/netcoreapp2.0/U_BreakPoints_Debugging.dll
+/Users/yokoref/Projects/U_BreakPoints_Debugging/U_BreakPoints_Debugging/bin/Debug/netcoreapp2.0/U_BreakPoints_Debugging.pdb
+/Users/yokoref/Projects/U_BreakPoints_Debugging/U_BreakPoints_Debugging/obj/Debug/netcoreapp2.0/U_BreakPoints_Debugging.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/U_BreakPoints_Debugging/U_BreakPoints_Debugging/obj/Debug/netcoreapp2.0/U_BreakPoints_Debugging.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/U_BreakPoints_Debugging/U_BreakPoints_Debugging/obj/Debug/netcoreapp2.0/U_BreakPoints_Debugging.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/U_BreakPoints_Debugging/U_BreakPoints_Debugging/obj/Debug/netcoreapp2.0/U_BreakPoints_Debugging.AssemblyInfo.cs
+/Users/yokoref/Projects/U_BreakPoints_Debugging/U_BreakPoints_Debugging/obj/Debug/netcoreapp2.0/U_BreakPoints_Debugging.dll
+/Users/yokoref/Projects/U_BreakPoints_Debugging/U_BreakPoints_Debugging/obj/Debug/netcoreapp2.0/U_BreakPoints_Debugging.pdb

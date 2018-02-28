@@ -1,0 +1,11 @@
+/Users/yokoref/Projects/Passing_Values_to_Methods/Passing_Values_to_Methods/obj/Debug/netcoreapp2.0/Passing_Values_to_Methods.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/Passing_Values_to_Methods/Passing_Values_to_Methods/obj/Debug/netcoreapp2.0/Passing_Values_to_Methods.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/Passing_Values_to_Methods/Passing_Values_to_Methods/obj/Debug/netcoreapp2.0/Passing_Values_to_Methods.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/Passing_Values_to_Methods/Passing_Values_to_Methods/obj/Debug/netcoreapp2.0/Passing_Values_to_Methods.AssemblyInfo.cs
+/Users/yokoref/Projects/Passing_Values_to_Methods/Passing_Values_to_Methods/bin/Debug/netcoreapp2.0/Passing_Values_to_Methods.deps.json
+/Users/yokoref/Projects/Passing_Values_to_Methods/Passing_Values_to_Methods/bin/Debug/netcoreapp2.0/Passing_Values_to_Methods.runtimeconfig.json
+/Users/yokoref/Projects/Passing_Values_to_Methods/Passing_Values_to_Methods/bin/Debug/netcoreapp2.0/Passing_Values_to_Methods.runtimeconfig.dev.json
+/Users/yokoref/Projects/Passing_Values_to_Methods/Passing_Values_to_Methods/bin/Debug/netcoreapp2.0/Passing_Values_to_Methods.dll
+/Users/yokoref/Projects/Passing_Values_to_Methods/Passing_Values_to_Methods/bin/Debug/netcoreapp2.0/Passing_Values_to_Methods.pdb
+/Users/yokoref/Projects/Passing_Values_to_Methods/Passing_Values_to_Methods/obj/Debug/netcoreapp2.0/Passing_Values_to_Methods.dll
+/Users/yokoref/Projects/Passing_Values_to_Methods/Passing_Values_to_Methods/obj/Debug/netcoreapp2.0/Passing_Values_to_Methods.pdb

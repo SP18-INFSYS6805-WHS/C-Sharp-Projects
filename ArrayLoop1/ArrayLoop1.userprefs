@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B0C817F1-C2B1-4FD4-85FB-F76054C2C86F}|Default">
+  <MonoDevelop.Ide.ItemProperties.ArrayLoop1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArrayLoop1/Program.cs">
+    <Files>
+      <File FileName="ArrayLoop1/Program.cs" Line="10" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

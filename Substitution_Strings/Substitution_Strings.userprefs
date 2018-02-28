@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{0CBA48B5-8836-4EBC-A109-951F82EBDC9A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Substitution_Strings/Program.cs">
+    <Files>
+      <File FileName="Substitution_Strings/Program.cs" Line="3" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Substitution__Strings PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

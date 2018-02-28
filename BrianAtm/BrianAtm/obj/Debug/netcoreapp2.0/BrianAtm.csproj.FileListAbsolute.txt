@@ -1,0 +1,11 @@
+/Users/yokoref/Projects/BrianAtm/BrianAtm/obj/Debug/netcoreapp2.0/BrianAtm.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/BrianAtm/BrianAtm/obj/Debug/netcoreapp2.0/BrianAtm.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/BrianAtm/BrianAtm/obj/Debug/netcoreapp2.0/BrianAtm.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/BrianAtm/BrianAtm/obj/Debug/netcoreapp2.0/BrianAtm.AssemblyInfo.cs
+/Users/yokoref/Projects/BrianAtm/BrianAtm/bin/Debug/netcoreapp2.0/BrianAtm.deps.json
+/Users/yokoref/Projects/BrianAtm/BrianAtm/bin/Debug/netcoreapp2.0/BrianAtm.runtimeconfig.json
+/Users/yokoref/Projects/BrianAtm/BrianAtm/bin/Debug/netcoreapp2.0/BrianAtm.runtimeconfig.dev.json
+/Users/yokoref/Projects/BrianAtm/BrianAtm/bin/Debug/netcoreapp2.0/BrianAtm.dll
+/Users/yokoref/Projects/BrianAtm/BrianAtm/bin/Debug/netcoreapp2.0/BrianAtm.pdb
+/Users/yokoref/Projects/BrianAtm/BrianAtm/obj/Debug/netcoreapp2.0/BrianAtm.dll
+/Users/yokoref/Projects/BrianAtm/BrianAtm/obj/Debug/netcoreapp2.0/BrianAtm.pdb

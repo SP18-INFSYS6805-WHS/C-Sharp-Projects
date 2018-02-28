@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{BA0A0669-0334-4B88-A58D-5EBD29FAC435}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment-1-ATM_2/Atm.cs">
+    <Files>
+      <File FileName="Assignment-1-ATM_2/Atm.cs" Line="56" Column="24" />
+      <File FileName="Assignment-1-ATM_2/Account.cs" Line="20" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment-1-ATM_2" expanded="True">
+            <Node name="Assignment-1-ATM_2" expanded="True">
+              <Node name="Atm.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assignment-1-ATM__2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

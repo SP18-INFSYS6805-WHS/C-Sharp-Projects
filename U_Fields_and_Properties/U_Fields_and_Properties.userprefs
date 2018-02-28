@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{A6026BC6-03AD-4CC1-98A1-46A5CA9CCF74}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="U_Fields_and_Properties/Program.cs">
+    <Files>
+      <File FileName="U_Fields_and_Properties/Program.cs" Line="9" Column="76" />
+      <File FileName="U_Fields_and_Properties/Student.cs" Line="8" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/yokoref/Projects/U_Fields_and_Properties/U_Fields_and_Properties/Student.cs" relfile="U_Fields_and_Properties/Student.cs" line="7" column="1" />
+      <Breakpoint file="/Users/yokoref/Projects/U_Fields_and_Properties/U_Fields_and_Properties/Student.cs" relfile="U_Fields_and_Properties/Student.cs" line="14" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.U__Fields__and__Properties PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

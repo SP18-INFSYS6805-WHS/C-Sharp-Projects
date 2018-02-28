@@ -1,0 +1,11 @@
+/Users/yokoref/Projects/Substitution_Strings/Substitution_Strings/bin/Debug/netcoreapp2.0/Substitution_Strings.deps.json
+/Users/yokoref/Projects/Substitution_Strings/Substitution_Strings/bin/Debug/netcoreapp2.0/Substitution_Strings.runtimeconfig.json
+/Users/yokoref/Projects/Substitution_Strings/Substitution_Strings/bin/Debug/netcoreapp2.0/Substitution_Strings.runtimeconfig.dev.json
+/Users/yokoref/Projects/Substitution_Strings/Substitution_Strings/bin/Debug/netcoreapp2.0/Substitution_Strings.dll
+/Users/yokoref/Projects/Substitution_Strings/Substitution_Strings/bin/Debug/netcoreapp2.0/Substitution_Strings.pdb
+/Users/yokoref/Projects/Substitution_Strings/Substitution_Strings/obj/Debug/netcoreapp2.0/Substitution_Strings.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/Substitution_Strings/Substitution_Strings/obj/Debug/netcoreapp2.0/Substitution_Strings.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/Substitution_Strings/Substitution_Strings/obj/Debug/netcoreapp2.0/Substitution_Strings.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/Substitution_Strings/Substitution_Strings/obj/Debug/netcoreapp2.0/Substitution_Strings.AssemblyInfo.cs
+/Users/yokoref/Projects/Substitution_Strings/Substitution_Strings/obj/Debug/netcoreapp2.0/Substitution_Strings.dll
+/Users/yokoref/Projects/Substitution_Strings/Substitution_Strings/obj/Debug/netcoreapp2.0/Substitution_Strings.pdb

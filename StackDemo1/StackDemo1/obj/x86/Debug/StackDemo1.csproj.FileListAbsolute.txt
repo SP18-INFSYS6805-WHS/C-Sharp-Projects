@@ -1,0 +1,5 @@
+/Users/yokoref/Projects/StackDemo1/StackDemo1/bin/Debug/StackDemo1.exe
+/Users/yokoref/Projects/StackDemo1/StackDemo1/bin/Debug/StackDemo1.pdb
+/Users/yokoref/Projects/StackDemo1/StackDemo1/obj/x86/Debug/StackDemo1.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/StackDemo1/StackDemo1/obj/x86/Debug/StackDemo1.exe
+/Users/yokoref/Projects/StackDemo1/StackDemo1/obj/x86/Debug/StackDemo1.pdb

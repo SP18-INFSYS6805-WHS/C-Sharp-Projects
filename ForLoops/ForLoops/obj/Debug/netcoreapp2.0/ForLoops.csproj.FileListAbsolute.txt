@@ -1,0 +1,11 @@
+/Users/yokoref/Projects/ForLoops/ForLoops/bin/Debug/netcoreapp2.0/ForLoops.deps.json
+/Users/yokoref/Projects/ForLoops/ForLoops/bin/Debug/netcoreapp2.0/ForLoops.runtimeconfig.json
+/Users/yokoref/Projects/ForLoops/ForLoops/bin/Debug/netcoreapp2.0/ForLoops.runtimeconfig.dev.json
+/Users/yokoref/Projects/ForLoops/ForLoops/bin/Debug/netcoreapp2.0/ForLoops.dll
+/Users/yokoref/Projects/ForLoops/ForLoops/bin/Debug/netcoreapp2.0/ForLoops.pdb
+/Users/yokoref/Projects/ForLoops/ForLoops/obj/Debug/netcoreapp2.0/ForLoops.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/ForLoops/ForLoops/obj/Debug/netcoreapp2.0/ForLoops.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/ForLoops/ForLoops/obj/Debug/netcoreapp2.0/ForLoops.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/ForLoops/ForLoops/obj/Debug/netcoreapp2.0/ForLoops.AssemblyInfo.cs
+/Users/yokoref/Projects/ForLoops/ForLoops/obj/Debug/netcoreapp2.0/ForLoops.dll
+/Users/yokoref/Projects/ForLoops/ForLoops/obj/Debug/netcoreapp2.0/ForLoops.pdb

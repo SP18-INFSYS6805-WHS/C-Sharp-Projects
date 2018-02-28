@@ -1,0 +1,9 @@
+/Users/yokoref/Projects/WordCounter/TextUtils/bin/Debug/netstandard2.0/TextUtils.deps.json
+/Users/yokoref/Projects/WordCounter/TextUtils/bin/Debug/netstandard2.0/TextUtils.dll
+/Users/yokoref/Projects/WordCounter/TextUtils/bin/Debug/netstandard2.0/TextUtils.pdb
+/Users/yokoref/Projects/WordCounter/TextUtils/obj/Debug/netstandard2.0/TextUtils.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/WordCounter/TextUtils/obj/Debug/netstandard2.0/TextUtils.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/WordCounter/TextUtils/obj/Debug/netstandard2.0/TextUtils.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/WordCounter/TextUtils/obj/Debug/netstandard2.0/TextUtils.AssemblyInfo.cs
+/Users/yokoref/Projects/WordCounter/TextUtils/obj/Debug/netstandard2.0/TextUtils.dll
+/Users/yokoref/Projects/WordCounter/TextUtils/obj/Debug/netstandard2.0/TextUtils.pdb

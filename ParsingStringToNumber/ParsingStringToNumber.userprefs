@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{8567919B-157A-4939-AA92-9CD7229BF112}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ParsingStringToNumber/Program.cs">
+    <Files>
+      <File FileName="ParsingStringToNumber/Program.cs" Line="12" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ParsingStringToNumber PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/yokoref/Projects/ConditionalTest/ConditionalTest/bin/Debug/ConditionalTest.exe
+/Users/yokoref/Projects/ConditionalTest/ConditionalTest/bin/Debug/ConditionalTest.pdb
+/Users/yokoref/Projects/ConditionalTest/ConditionalTest/obj/x86/Debug/ConditionalTest.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/ConditionalTest/ConditionalTest/obj/x86/Debug/ConditionalTest.exe
+/Users/yokoref/Projects/ConditionalTest/ConditionalTest/obj/x86/Debug/ConditionalTest.pdb

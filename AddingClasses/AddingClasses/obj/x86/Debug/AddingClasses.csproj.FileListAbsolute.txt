@@ -1,0 +1,5 @@
+/Users/yokoref/Projects/AddingClasses/AddingClasses/bin/Debug/AddingClasses.exe
+/Users/yokoref/Projects/AddingClasses/AddingClasses/bin/Debug/AddingClasses.pdb
+/Users/yokoref/Projects/AddingClasses/AddingClasses/obj/x86/Debug/AddingClasses.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/AddingClasses/AddingClasses/obj/x86/Debug/AddingClasses.exe
+/Users/yokoref/Projects/AddingClasses/AddingClasses/obj/x86/Debug/AddingClasses.pdb

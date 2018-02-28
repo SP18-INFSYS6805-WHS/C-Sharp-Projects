@@ -1,0 +1,11 @@
+/Users/yokoref/Projects/Assignment-1-ATM_2/Assignment-1-ATM_2/obj/Debug/netcoreapp2.0/Assignment-1-ATM_2.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/Assignment-1-ATM_2/Assignment-1-ATM_2/obj/Debug/netcoreapp2.0/Assignment-1-ATM_2.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/Assignment-1-ATM_2/Assignment-1-ATM_2/obj/Debug/netcoreapp2.0/Assignment-1-ATM_2.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/Assignment-1-ATM_2/Assignment-1-ATM_2/obj/Debug/netcoreapp2.0/Assignment-1-ATM_2.AssemblyInfo.cs
+/Users/yokoref/Projects/Assignment-1-ATM_2/Assignment-1-ATM_2/bin/Debug/netcoreapp2.0/Assignment-1-ATM_2.deps.json
+/Users/yokoref/Projects/Assignment-1-ATM_2/Assignment-1-ATM_2/bin/Debug/netcoreapp2.0/Assignment-1-ATM_2.runtimeconfig.json
+/Users/yokoref/Projects/Assignment-1-ATM_2/Assignment-1-ATM_2/bin/Debug/netcoreapp2.0/Assignment-1-ATM_2.runtimeconfig.dev.json
+/Users/yokoref/Projects/Assignment-1-ATM_2/Assignment-1-ATM_2/bin/Debug/netcoreapp2.0/Assignment-1-ATM_2.dll
+/Users/yokoref/Projects/Assignment-1-ATM_2/Assignment-1-ATM_2/bin/Debug/netcoreapp2.0/Assignment-1-ATM_2.pdb
+/Users/yokoref/Projects/Assignment-1-ATM_2/Assignment-1-ATM_2/obj/Debug/netcoreapp2.0/Assignment-1-ATM_2.dll
+/Users/yokoref/Projects/Assignment-1-ATM_2/Assignment-1-ATM_2/obj/Debug/netcoreapp2.0/Assignment-1-ATM_2.pdb

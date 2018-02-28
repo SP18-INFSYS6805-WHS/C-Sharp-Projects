@@ -1,0 +1,11 @@
+/Users/yokoref/Projects/ArrayLoop1/ArrayLoop1/obj/Debug/netcoreapp2.0/ArrayLoop1.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/ArrayLoop1/ArrayLoop1/obj/Debug/netcoreapp2.0/ArrayLoop1.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/ArrayLoop1/ArrayLoop1/obj/Debug/netcoreapp2.0/ArrayLoop1.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/ArrayLoop1/ArrayLoop1/obj/Debug/netcoreapp2.0/ArrayLoop1.AssemblyInfo.cs
+/Users/yokoref/Projects/ArrayLoop1/ArrayLoop1/bin/Debug/netcoreapp2.0/ArrayLoop1.deps.json
+/Users/yokoref/Projects/ArrayLoop1/ArrayLoop1/bin/Debug/netcoreapp2.0/ArrayLoop1.runtimeconfig.json
+/Users/yokoref/Projects/ArrayLoop1/ArrayLoop1/bin/Debug/netcoreapp2.0/ArrayLoop1.runtimeconfig.dev.json
+/Users/yokoref/Projects/ArrayLoop1/ArrayLoop1/bin/Debug/netcoreapp2.0/ArrayLoop1.dll
+/Users/yokoref/Projects/ArrayLoop1/ArrayLoop1/bin/Debug/netcoreapp2.0/ArrayLoop1.pdb
+/Users/yokoref/Projects/ArrayLoop1/ArrayLoop1/obj/Debug/netcoreapp2.0/ArrayLoop1.dll
+/Users/yokoref/Projects/ArrayLoop1/ArrayLoop1/obj/Debug/netcoreapp2.0/ArrayLoop1.pdb

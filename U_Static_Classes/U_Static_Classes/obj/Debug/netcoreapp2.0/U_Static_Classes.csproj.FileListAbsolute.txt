@@ -1,0 +1,11 @@
+/Users/yokoref/Projects/U_Static_Classes/U_Static_Classes/bin/Debug/netcoreapp2.0/U_Static_Classes.deps.json
+/Users/yokoref/Projects/U_Static_Classes/U_Static_Classes/bin/Debug/netcoreapp2.0/U_Static_Classes.runtimeconfig.json
+/Users/yokoref/Projects/U_Static_Classes/U_Static_Classes/bin/Debug/netcoreapp2.0/U_Static_Classes.runtimeconfig.dev.json
+/Users/yokoref/Projects/U_Static_Classes/U_Static_Classes/bin/Debug/netcoreapp2.0/U_Static_Classes.dll
+/Users/yokoref/Projects/U_Static_Classes/U_Static_Classes/bin/Debug/netcoreapp2.0/U_Static_Classes.pdb
+/Users/yokoref/Projects/U_Static_Classes/U_Static_Classes/obj/Debug/netcoreapp2.0/U_Static_Classes.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/U_Static_Classes/U_Static_Classes/obj/Debug/netcoreapp2.0/U_Static_Classes.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/U_Static_Classes/U_Static_Classes/obj/Debug/netcoreapp2.0/U_Static_Classes.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/U_Static_Classes/U_Static_Classes/obj/Debug/netcoreapp2.0/U_Static_Classes.AssemblyInfo.cs
+/Users/yokoref/Projects/U_Static_Classes/U_Static_Classes/obj/Debug/netcoreapp2.0/U_Static_Classes.dll
+/Users/yokoref/Projects/U_Static_Classes/U_Static_Classes/obj/Debug/netcoreapp2.0/U_Static_Classes.pdb

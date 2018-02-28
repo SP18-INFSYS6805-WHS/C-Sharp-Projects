@@ -1,0 +1,11 @@
+/Users/yokoref/Projects/QueueDeQueue/QueueDeQueue/bin/Debug/netcoreapp2.0/QueueDeQueue.deps.json
+/Users/yokoref/Projects/QueueDeQueue/QueueDeQueue/bin/Debug/netcoreapp2.0/QueueDeQueue.runtimeconfig.json
+/Users/yokoref/Projects/QueueDeQueue/QueueDeQueue/bin/Debug/netcoreapp2.0/QueueDeQueue.runtimeconfig.dev.json
+/Users/yokoref/Projects/QueueDeQueue/QueueDeQueue/bin/Debug/netcoreapp2.0/QueueDeQueue.dll
+/Users/yokoref/Projects/QueueDeQueue/QueueDeQueue/bin/Debug/netcoreapp2.0/QueueDeQueue.pdb
+/Users/yokoref/Projects/QueueDeQueue/QueueDeQueue/obj/Debug/netcoreapp2.0/QueueDeQueue.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/QueueDeQueue/QueueDeQueue/obj/Debug/netcoreapp2.0/QueueDeQueue.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/QueueDeQueue/QueueDeQueue/obj/Debug/netcoreapp2.0/QueueDeQueue.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/QueueDeQueue/QueueDeQueue/obj/Debug/netcoreapp2.0/QueueDeQueue.AssemblyInfo.cs
+/Users/yokoref/Projects/QueueDeQueue/QueueDeQueue/obj/Debug/netcoreapp2.0/QueueDeQueue.dll
+/Users/yokoref/Projects/QueueDeQueue/QueueDeQueue/obj/Debug/netcoreapp2.0/QueueDeQueue.pdb

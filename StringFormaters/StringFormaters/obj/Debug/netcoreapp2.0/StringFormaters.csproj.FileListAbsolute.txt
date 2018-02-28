@@ -1,0 +1,11 @@
+/Users/yokoref/Projects/StringFormaters/StringFormaters/obj/Debug/netcoreapp2.0/StringFormaters.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/StringFormaters/StringFormaters/obj/Debug/netcoreapp2.0/StringFormaters.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/StringFormaters/StringFormaters/obj/Debug/netcoreapp2.0/StringFormaters.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/StringFormaters/StringFormaters/obj/Debug/netcoreapp2.0/StringFormaters.AssemblyInfo.cs
+/Users/yokoref/Projects/StringFormaters/StringFormaters/bin/Debug/netcoreapp2.0/StringFormaters.deps.json
+/Users/yokoref/Projects/StringFormaters/StringFormaters/bin/Debug/netcoreapp2.0/StringFormaters.runtimeconfig.json
+/Users/yokoref/Projects/StringFormaters/StringFormaters/bin/Debug/netcoreapp2.0/StringFormaters.runtimeconfig.dev.json
+/Users/yokoref/Projects/StringFormaters/StringFormaters/bin/Debug/netcoreapp2.0/StringFormaters.dll
+/Users/yokoref/Projects/StringFormaters/StringFormaters/bin/Debug/netcoreapp2.0/StringFormaters.pdb
+/Users/yokoref/Projects/StringFormaters/StringFormaters/obj/Debug/netcoreapp2.0/StringFormaters.dll
+/Users/yokoref/Projects/StringFormaters/StringFormaters/obj/Debug/netcoreapp2.0/StringFormaters.pdb

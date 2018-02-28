@@ -1,0 +1,11 @@
+/Users/yokoref/Projects/U_Overridding_Methods/U_Overridding_Methods/bin/Debug/netcoreapp2.0/U_Overridding_Methods.deps.json
+/Users/yokoref/Projects/U_Overridding_Methods/U_Overridding_Methods/bin/Debug/netcoreapp2.0/U_Overridding_Methods.runtimeconfig.json
+/Users/yokoref/Projects/U_Overridding_Methods/U_Overridding_Methods/bin/Debug/netcoreapp2.0/U_Overridding_Methods.runtimeconfig.dev.json
+/Users/yokoref/Projects/U_Overridding_Methods/U_Overridding_Methods/bin/Debug/netcoreapp2.0/U_Overridding_Methods.dll
+/Users/yokoref/Projects/U_Overridding_Methods/U_Overridding_Methods/bin/Debug/netcoreapp2.0/U_Overridding_Methods.pdb
+/Users/yokoref/Projects/U_Overridding_Methods/U_Overridding_Methods/obj/Debug/netcoreapp2.0/U_Overridding_Methods.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/U_Overridding_Methods/U_Overridding_Methods/obj/Debug/netcoreapp2.0/U_Overridding_Methods.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/U_Overridding_Methods/U_Overridding_Methods/obj/Debug/netcoreapp2.0/U_Overridding_Methods.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/U_Overridding_Methods/U_Overridding_Methods/obj/Debug/netcoreapp2.0/U_Overridding_Methods.AssemblyInfo.cs
+/Users/yokoref/Projects/U_Overridding_Methods/U_Overridding_Methods/obj/Debug/netcoreapp2.0/U_Overridding_Methods.dll
+/Users/yokoref/Projects/U_Overridding_Methods/U_Overridding_Methods/obj/Debug/netcoreapp2.0/U_Overridding_Methods.pdb

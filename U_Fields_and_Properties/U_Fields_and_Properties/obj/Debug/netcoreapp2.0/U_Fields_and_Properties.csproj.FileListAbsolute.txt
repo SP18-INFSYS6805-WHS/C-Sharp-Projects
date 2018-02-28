@@ -1,0 +1,11 @@
+/Users/yokoref/Projects/U_Fields_and_Properties/U_Fields_and_Properties/bin/Debug/netcoreapp2.0/U_Fields_and_Properties.deps.json
+/Users/yokoref/Projects/U_Fields_and_Properties/U_Fields_and_Properties/bin/Debug/netcoreapp2.0/U_Fields_and_Properties.runtimeconfig.json
+/Users/yokoref/Projects/U_Fields_and_Properties/U_Fields_and_Properties/bin/Debug/netcoreapp2.0/U_Fields_and_Properties.runtimeconfig.dev.json
+/Users/yokoref/Projects/U_Fields_and_Properties/U_Fields_and_Properties/bin/Debug/netcoreapp2.0/U_Fields_and_Properties.dll
+/Users/yokoref/Projects/U_Fields_and_Properties/U_Fields_and_Properties/bin/Debug/netcoreapp2.0/U_Fields_and_Properties.pdb
+/Users/yokoref/Projects/U_Fields_and_Properties/U_Fields_and_Properties/obj/Debug/netcoreapp2.0/U_Fields_and_Properties.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/U_Fields_and_Properties/U_Fields_and_Properties/obj/Debug/netcoreapp2.0/U_Fields_and_Properties.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/U_Fields_and_Properties/U_Fields_and_Properties/obj/Debug/netcoreapp2.0/U_Fields_and_Properties.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/U_Fields_and_Properties/U_Fields_and_Properties/obj/Debug/netcoreapp2.0/U_Fields_and_Properties.AssemblyInfo.cs
+/Users/yokoref/Projects/U_Fields_and_Properties/U_Fields_and_Properties/obj/Debug/netcoreapp2.0/U_Fields_and_Properties.dll
+/Users/yokoref/Projects/U_Fields_and_Properties/U_Fields_and_Properties/obj/Debug/netcoreapp2.0/U_Fields_and_Properties.pdb

@@ -1,0 +1,13 @@
+/Users/yokoref/Projects/WordCounter/WordCounterApp/bin/Debug/netcoreapp2.0/WordCounterApp.deps.json
+/Users/yokoref/Projects/WordCounter/WordCounterApp/bin/Debug/netcoreapp2.0/WordCounterApp.runtimeconfig.json
+/Users/yokoref/Projects/WordCounter/WordCounterApp/bin/Debug/netcoreapp2.0/WordCounterApp.runtimeconfig.dev.json
+/Users/yokoref/Projects/WordCounter/WordCounterApp/bin/Debug/netcoreapp2.0/WordCounterApp.dll
+/Users/yokoref/Projects/WordCounter/WordCounterApp/bin/Debug/netcoreapp2.0/WordCounterApp.pdb
+/Users/yokoref/Projects/WordCounter/WordCounterApp/bin/Debug/netcoreapp2.0/TextUtils.dll
+/Users/yokoref/Projects/WordCounter/WordCounterApp/bin/Debug/netcoreapp2.0/TextUtils.pdb
+/Users/yokoref/Projects/WordCounter/WordCounterApp/obj/Debug/netcoreapp2.0/WordCounterApp.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/WordCounter/WordCounterApp/obj/Debug/netcoreapp2.0/WordCounterApp.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/WordCounter/WordCounterApp/obj/Debug/netcoreapp2.0/WordCounterApp.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/WordCounter/WordCounterApp/obj/Debug/netcoreapp2.0/WordCounterApp.AssemblyInfo.cs
+/Users/yokoref/Projects/WordCounter/WordCounterApp/obj/Debug/netcoreapp2.0/WordCounterApp.dll
+/Users/yokoref/Projects/WordCounter/WordCounterApp/obj/Debug/netcoreapp2.0/WordCounterApp.pdb

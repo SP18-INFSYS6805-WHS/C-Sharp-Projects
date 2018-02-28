@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{BC6CE740-43DC-4BAD-B37D-DFB6F2F71758}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="U_Constructors/Program.cs">
+    <Files>
+      <File FileName="U_Constructors/Program.cs" Line="21" Column="1" />
+      <File FileName="U_Constructors/Addition.cs" Line="30" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/yokoref/Projects/U_Constructors/U_Constructors/Program.cs" relfile="U_Constructors/Program.cs" line="7" column="1" />
+      <Breakpoint file="/Users/yokoref/Projects/U_Constructors/U_Constructors/Program.cs" relfile="U_Constructors/Program.cs" line="10" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.U__Constructors PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

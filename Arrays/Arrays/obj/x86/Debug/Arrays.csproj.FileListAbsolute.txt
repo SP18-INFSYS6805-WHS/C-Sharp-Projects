@@ -1,0 +1,5 @@
+/Users/yokoref/Projects/Arrays/Arrays/bin/Debug/Arrays.exe
+/Users/yokoref/Projects/Arrays/Arrays/bin/Debug/Arrays.pdb
+/Users/yokoref/Projects/Arrays/Arrays/obj/x86/Debug/Arrays.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/Arrays/Arrays/obj/x86/Debug/Arrays.exe
+/Users/yokoref/Projects/Arrays/Arrays/obj/x86/Debug/Arrays.pdb

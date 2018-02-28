@@ -1,0 +1,5 @@
+/Users/yokoref/Projects/EverythingClass/EverythingClass/bin/Debug/EverythingClass.exe
+/Users/yokoref/Projects/EverythingClass/EverythingClass/bin/Debug/EverythingClass.pdb
+/Users/yokoref/Projects/EverythingClass/EverythingClass/obj/x86/Debug/EverythingClass.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/EverythingClass/EverythingClass/obj/x86/Debug/EverythingClass.exe
+/Users/yokoref/Projects/EverythingClass/EverythingClass/obj/x86/Debug/EverythingClass.pdb

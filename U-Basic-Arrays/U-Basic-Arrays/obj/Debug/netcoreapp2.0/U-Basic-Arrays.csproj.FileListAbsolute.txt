@@ -1,0 +1,11 @@
+/Users/yokoref/Projects/U-Basic-Arrays/U-Basic-Arrays/obj/Debug/netcoreapp2.0/U-Basic-Arrays.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/U-Basic-Arrays/U-Basic-Arrays/obj/Debug/netcoreapp2.0/U-Basic-Arrays.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/U-Basic-Arrays/U-Basic-Arrays/obj/Debug/netcoreapp2.0/U-Basic-Arrays.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/U-Basic-Arrays/U-Basic-Arrays/obj/Debug/netcoreapp2.0/U-Basic-Arrays.AssemblyInfo.cs
+/Users/yokoref/Projects/U-Basic-Arrays/U-Basic-Arrays/bin/Debug/netcoreapp2.0/U-Basic-Arrays.deps.json
+/Users/yokoref/Projects/U-Basic-Arrays/U-Basic-Arrays/bin/Debug/netcoreapp2.0/U-Basic-Arrays.runtimeconfig.json
+/Users/yokoref/Projects/U-Basic-Arrays/U-Basic-Arrays/bin/Debug/netcoreapp2.0/U-Basic-Arrays.runtimeconfig.dev.json
+/Users/yokoref/Projects/U-Basic-Arrays/U-Basic-Arrays/bin/Debug/netcoreapp2.0/U-Basic-Arrays.dll
+/Users/yokoref/Projects/U-Basic-Arrays/U-Basic-Arrays/bin/Debug/netcoreapp2.0/U-Basic-Arrays.pdb
+/Users/yokoref/Projects/U-Basic-Arrays/U-Basic-Arrays/obj/Debug/netcoreapp2.0/U-Basic-Arrays.dll
+/Users/yokoref/Projects/U-Basic-Arrays/U-Basic-Arrays/obj/Debug/netcoreapp2.0/U-Basic-Arrays.pdb

@@ -1,0 +1,11 @@
+/Users/yokoref/Projects/StackPlay/StackPlay/bin/Debug/netcoreapp2.0/StackPlay.deps.json
+/Users/yokoref/Projects/StackPlay/StackPlay/bin/Debug/netcoreapp2.0/StackPlay.runtimeconfig.json
+/Users/yokoref/Projects/StackPlay/StackPlay/bin/Debug/netcoreapp2.0/StackPlay.runtimeconfig.dev.json
+/Users/yokoref/Projects/StackPlay/StackPlay/bin/Debug/netcoreapp2.0/StackPlay.dll
+/Users/yokoref/Projects/StackPlay/StackPlay/bin/Debug/netcoreapp2.0/StackPlay.pdb
+/Users/yokoref/Projects/StackPlay/StackPlay/obj/Debug/netcoreapp2.0/StackPlay.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/StackPlay/StackPlay/obj/Debug/netcoreapp2.0/StackPlay.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/StackPlay/StackPlay/obj/Debug/netcoreapp2.0/StackPlay.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/StackPlay/StackPlay/obj/Debug/netcoreapp2.0/StackPlay.AssemblyInfo.cs
+/Users/yokoref/Projects/StackPlay/StackPlay/obj/Debug/netcoreapp2.0/StackPlay.dll
+/Users/yokoref/Projects/StackPlay/StackPlay/obj/Debug/netcoreapp2.0/StackPlay.pdb

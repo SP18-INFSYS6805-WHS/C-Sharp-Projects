@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7D4B6096-8CD9-4949-AD7F-F771D94A7DAB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Fibonacci_Sequence/Fibonacci_Sequence/Program.cs">
+    <Files>
+      <File FileName="../Fibonacci_Sequence/Fibonacci_Sequence/Program.cs" Line="23" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Passing_Values_to_Methods" expanded="True">
+            <Node name="Passing_Values_to_Methods" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Passing__Values__to__Methods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

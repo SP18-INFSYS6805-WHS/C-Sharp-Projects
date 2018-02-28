@@ -1,0 +1,4 @@
+/Users/yokoref/Projects/B_ATM/B_ATM/obj/Debug/netcoreapp2.0/B_ATM.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/B_ATM/B_ATM/obj/Debug/netcoreapp2.0/B_ATM.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/B_ATM/B_ATM/obj/Debug/netcoreapp2.0/B_ATM.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/B_ATM/B_ATM/obj/Debug/netcoreapp2.0/B_ATM.AssemblyInfo.cs

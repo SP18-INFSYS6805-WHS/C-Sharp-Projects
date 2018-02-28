@@ -1,0 +1,11 @@
+/Users/yokoref/Projects/QueueAndDequeue/QueueAndDequeue/bin/Debug/netcoreapp2.0/QueueAndDequeue.deps.json
+/Users/yokoref/Projects/QueueAndDequeue/QueueAndDequeue/bin/Debug/netcoreapp2.0/QueueAndDequeue.runtimeconfig.json
+/Users/yokoref/Projects/QueueAndDequeue/QueueAndDequeue/bin/Debug/netcoreapp2.0/QueueAndDequeue.runtimeconfig.dev.json
+/Users/yokoref/Projects/QueueAndDequeue/QueueAndDequeue/bin/Debug/netcoreapp2.0/QueueAndDequeue.dll
+/Users/yokoref/Projects/QueueAndDequeue/QueueAndDequeue/bin/Debug/netcoreapp2.0/QueueAndDequeue.pdb
+/Users/yokoref/Projects/QueueAndDequeue/QueueAndDequeue/obj/Debug/netcoreapp2.0/QueueAndDequeue.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/QueueAndDequeue/QueueAndDequeue/obj/Debug/netcoreapp2.0/QueueAndDequeue.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/QueueAndDequeue/QueueAndDequeue/obj/Debug/netcoreapp2.0/QueueAndDequeue.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/QueueAndDequeue/QueueAndDequeue/obj/Debug/netcoreapp2.0/QueueAndDequeue.AssemblyInfo.cs
+/Users/yokoref/Projects/QueueAndDequeue/QueueAndDequeue/obj/Debug/netcoreapp2.0/QueueAndDequeue.dll
+/Users/yokoref/Projects/QueueAndDequeue/QueueAndDequeue/obj/Debug/netcoreapp2.0/QueueAndDequeue.pdb

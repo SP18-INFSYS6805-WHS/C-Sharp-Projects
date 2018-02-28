@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{A5D67434-6461-4B92-97F0-92F1FB2084BB}|Default">
+  <MonoDevelop.Ide.ItemProperties.U__Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="U_Inheritance/Program.cs">
+    <Files>
+      <File FileName="U_Inheritance/Program.cs" Line="15" Column="13" />
+      <File FileName="U_Inheritance/Auto.cs" Line="5" Column="6" />
+      <File FileName="U_Inheritance/Truck.cs" Line="19" Column="10" />
+      <File FileName="U_Inheritance/Car.cs" Line="12" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

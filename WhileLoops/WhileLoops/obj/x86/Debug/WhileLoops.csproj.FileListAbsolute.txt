@@ -1,0 +1,5 @@
+/Users/yokoref/Projects/WhileLoops/WhileLoops/bin/Debug/WhileLoops.exe
+/Users/yokoref/Projects/WhileLoops/WhileLoops/bin/Debug/WhileLoops.pdb
+/Users/yokoref/Projects/WhileLoops/WhileLoops/obj/x86/Debug/WhileLoops.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/WhileLoops/WhileLoops/obj/x86/Debug/WhileLoops.exe
+/Users/yokoref/Projects/WhileLoops/WhileLoops/obj/x86/Debug/WhileLoops.pdb

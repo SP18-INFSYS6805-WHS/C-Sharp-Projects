@@ -1,0 +1,11 @@
+/Users/yokoref/Projects/U_Object_OO/U_Object_OO/obj/Debug/netcoreapp2.0/U_Object_OO.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/U_Object_OO/U_Object_OO/obj/Debug/netcoreapp2.0/U_Object_OO.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/U_Object_OO/U_Object_OO/obj/Debug/netcoreapp2.0/U_Object_OO.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/U_Object_OO/U_Object_OO/obj/Debug/netcoreapp2.0/U_Object_OO.AssemblyInfo.cs
+/Users/yokoref/Projects/U_Object_OO/U_Object_OO/bin/Debug/netcoreapp2.0/U_Object_OO.deps.json
+/Users/yokoref/Projects/U_Object_OO/U_Object_OO/bin/Debug/netcoreapp2.0/U_Object_OO.runtimeconfig.json
+/Users/yokoref/Projects/U_Object_OO/U_Object_OO/bin/Debug/netcoreapp2.0/U_Object_OO.runtimeconfig.dev.json
+/Users/yokoref/Projects/U_Object_OO/U_Object_OO/bin/Debug/netcoreapp2.0/U_Object_OO.dll
+/Users/yokoref/Projects/U_Object_OO/U_Object_OO/bin/Debug/netcoreapp2.0/U_Object_OO.pdb
+/Users/yokoref/Projects/U_Object_OO/U_Object_OO/obj/Debug/netcoreapp2.0/U_Object_OO.dll
+/Users/yokoref/Projects/U_Object_OO/U_Object_OO/obj/Debug/netcoreapp2.0/U_Object_OO.pdb

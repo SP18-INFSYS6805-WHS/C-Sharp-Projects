@@ -1,0 +1,11 @@
+/Users/yokoref/Projects/ATM_FlexibleList/ATM_FlexibleList/bin/Debug/netcoreapp2.0/ATM_FlexibleList.deps.json
+/Users/yokoref/Projects/ATM_FlexibleList/ATM_FlexibleList/bin/Debug/netcoreapp2.0/ATM_FlexibleList.runtimeconfig.json
+/Users/yokoref/Projects/ATM_FlexibleList/ATM_FlexibleList/bin/Debug/netcoreapp2.0/ATM_FlexibleList.runtimeconfig.dev.json
+/Users/yokoref/Projects/ATM_FlexibleList/ATM_FlexibleList/bin/Debug/netcoreapp2.0/ATM_FlexibleList.dll
+/Users/yokoref/Projects/ATM_FlexibleList/ATM_FlexibleList/bin/Debug/netcoreapp2.0/ATM_FlexibleList.pdb
+/Users/yokoref/Projects/ATM_FlexibleList/ATM_FlexibleList/obj/Debug/netcoreapp2.0/ATM_FlexibleList.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/ATM_FlexibleList/ATM_FlexibleList/obj/Debug/netcoreapp2.0/ATM_FlexibleList.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/ATM_FlexibleList/ATM_FlexibleList/obj/Debug/netcoreapp2.0/ATM_FlexibleList.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/ATM_FlexibleList/ATM_FlexibleList/obj/Debug/netcoreapp2.0/ATM_FlexibleList.AssemblyInfo.cs
+/Users/yokoref/Projects/ATM_FlexibleList/ATM_FlexibleList/obj/Debug/netcoreapp2.0/ATM_FlexibleList.dll
+/Users/yokoref/Projects/ATM_FlexibleList/ATM_FlexibleList/obj/Debug/netcoreapp2.0/ATM_FlexibleList.pdb

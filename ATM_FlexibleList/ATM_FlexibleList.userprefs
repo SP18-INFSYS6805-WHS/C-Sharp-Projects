@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{5CE91B40-753B-4C5D-AA0C-3B45B934A771}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ATM_FlexibleList/Program.cs">
+    <Files>
+      <File FileName="ATM_FlexibleList/Program.cs" Line="81" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ATM__FlexibleList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

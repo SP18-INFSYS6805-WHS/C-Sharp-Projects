@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B87559DC-220B-4341-AD08-44E973E758B0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReadWrite_toTxtFile/Program.cs">
+    <Files>
+      <File FileName="ReadWrite_toTxtFile/Program.cs" Line="11" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ReadWrite__toTxtFile PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

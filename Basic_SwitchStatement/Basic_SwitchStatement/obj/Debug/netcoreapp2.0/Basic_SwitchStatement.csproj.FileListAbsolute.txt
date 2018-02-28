@@ -1,0 +1,11 @@
+/Users/yokoref/Projects/Basic_SwitchStatement/Basic_SwitchStatement/obj/Debug/netcoreapp2.0/Basic_SwitchStatement.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/Basic_SwitchStatement/Basic_SwitchStatement/obj/Debug/netcoreapp2.0/Basic_SwitchStatement.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/Basic_SwitchStatement/Basic_SwitchStatement/obj/Debug/netcoreapp2.0/Basic_SwitchStatement.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/Basic_SwitchStatement/Basic_SwitchStatement/obj/Debug/netcoreapp2.0/Basic_SwitchStatement.AssemblyInfo.cs
+/Users/yokoref/Projects/Basic_SwitchStatement/Basic_SwitchStatement/bin/Debug/netcoreapp2.0/Basic_SwitchStatement.deps.json
+/Users/yokoref/Projects/Basic_SwitchStatement/Basic_SwitchStatement/bin/Debug/netcoreapp2.0/Basic_SwitchStatement.runtimeconfig.json
+/Users/yokoref/Projects/Basic_SwitchStatement/Basic_SwitchStatement/bin/Debug/netcoreapp2.0/Basic_SwitchStatement.runtimeconfig.dev.json
+/Users/yokoref/Projects/Basic_SwitchStatement/Basic_SwitchStatement/bin/Debug/netcoreapp2.0/Basic_SwitchStatement.dll
+/Users/yokoref/Projects/Basic_SwitchStatement/Basic_SwitchStatement/bin/Debug/netcoreapp2.0/Basic_SwitchStatement.pdb
+/Users/yokoref/Projects/Basic_SwitchStatement/Basic_SwitchStatement/obj/Debug/netcoreapp2.0/Basic_SwitchStatement.dll
+/Users/yokoref/Projects/Basic_SwitchStatement/Basic_SwitchStatement/obj/Debug/netcoreapp2.0/Basic_SwitchStatement.pdb

@@ -1,0 +1,11 @@
+/Users/yokoref/Projects/U-Basic_ForLoop/U-Basic_ForLoop/bin/Debug/netcoreapp2.0/U-Basic_ForLoop.deps.json
+/Users/yokoref/Projects/U-Basic_ForLoop/U-Basic_ForLoop/bin/Debug/netcoreapp2.0/U-Basic_ForLoop.runtimeconfig.json
+/Users/yokoref/Projects/U-Basic_ForLoop/U-Basic_ForLoop/bin/Debug/netcoreapp2.0/U-Basic_ForLoop.runtimeconfig.dev.json
+/Users/yokoref/Projects/U-Basic_ForLoop/U-Basic_ForLoop/bin/Debug/netcoreapp2.0/U-Basic_ForLoop.dll
+/Users/yokoref/Projects/U-Basic_ForLoop/U-Basic_ForLoop/bin/Debug/netcoreapp2.0/U-Basic_ForLoop.pdb
+/Users/yokoref/Projects/U-Basic_ForLoop/U-Basic_ForLoop/obj/Debug/netcoreapp2.0/U-Basic_ForLoop.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/U-Basic_ForLoop/U-Basic_ForLoop/obj/Debug/netcoreapp2.0/U-Basic_ForLoop.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/U-Basic_ForLoop/U-Basic_ForLoop/obj/Debug/netcoreapp2.0/U-Basic_ForLoop.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/U-Basic_ForLoop/U-Basic_ForLoop/obj/Debug/netcoreapp2.0/U-Basic_ForLoop.AssemblyInfo.cs
+/Users/yokoref/Projects/U-Basic_ForLoop/U-Basic_ForLoop/obj/Debug/netcoreapp2.0/U-Basic_ForLoop.dll
+/Users/yokoref/Projects/U-Basic_ForLoop/U-Basic_ForLoop/obj/Debug/netcoreapp2.0/U-Basic_ForLoop.pdb

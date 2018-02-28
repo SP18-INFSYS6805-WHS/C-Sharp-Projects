@@ -1,0 +1,11 @@
+/Users/yokoref/Projects/Concatenating/Concatenating/bin/Debug/netcoreapp2.0/Concatenating.deps.json
+/Users/yokoref/Projects/Concatenating/Concatenating/bin/Debug/netcoreapp2.0/Concatenating.runtimeconfig.json
+/Users/yokoref/Projects/Concatenating/Concatenating/bin/Debug/netcoreapp2.0/Concatenating.runtimeconfig.dev.json
+/Users/yokoref/Projects/Concatenating/Concatenating/bin/Debug/netcoreapp2.0/Concatenating.dll
+/Users/yokoref/Projects/Concatenating/Concatenating/bin/Debug/netcoreapp2.0/Concatenating.pdb
+/Users/yokoref/Projects/Concatenating/Concatenating/obj/Debug/netcoreapp2.0/Concatenating.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/Concatenating/Concatenating/obj/Debug/netcoreapp2.0/Concatenating.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/Concatenating/Concatenating/obj/Debug/netcoreapp2.0/Concatenating.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/Concatenating/Concatenating/obj/Debug/netcoreapp2.0/Concatenating.AssemblyInfo.cs
+/Users/yokoref/Projects/Concatenating/Concatenating/obj/Debug/netcoreapp2.0/Concatenating.dll
+/Users/yokoref/Projects/Concatenating/Concatenating/obj/Debug/netcoreapp2.0/Concatenating.pdb

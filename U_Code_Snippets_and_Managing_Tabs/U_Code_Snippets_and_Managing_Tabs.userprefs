@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{5E9DD84C-9DB1-4149-BF05-7CF0E110EFF2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="U_Code_Snippets_and_Managing_Tabs/Program.cs">
+    <Files>
+      <File FileName="U_Code_Snippets_and_Managing_Tabs/Program.cs" Line="30" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.U__Code__Snippets__and__Managing__Tabs PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

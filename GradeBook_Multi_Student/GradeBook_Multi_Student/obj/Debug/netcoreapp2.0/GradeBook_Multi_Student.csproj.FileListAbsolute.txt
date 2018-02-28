@@ -1,0 +1,4 @@
+/Users/yokoref/Projects/GradeBook_Multi_Student/GradeBook_Multi_Student/obj/Debug/netcoreapp2.0/GradeBook_Multi_Student.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/GradeBook_Multi_Student/GradeBook_Multi_Student/obj/Debug/netcoreapp2.0/GradeBook_Multi_Student.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/GradeBook_Multi_Student/GradeBook_Multi_Student/obj/Debug/netcoreapp2.0/GradeBook_Multi_Student.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/GradeBook_Multi_Student/GradeBook_Multi_Student/obj/Debug/netcoreapp2.0/GradeBook_Multi_Student.AssemblyInfo.cs

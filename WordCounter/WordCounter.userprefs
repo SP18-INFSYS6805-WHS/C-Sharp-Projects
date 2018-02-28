@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{7616ECE5-C278-4430-8568-9FBC5263A001}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WordCounterApp/Program.cs">
+    <Files>
+      <File FileName="TextUtils/WordCount.cs" Line="29" Column="2" />
+      <File FileName="TestLibrary/TextUtilsTests.cs" Line="28" Column="10" />
+      <File FileName="WordCounterApp/Program.cs" Line="27" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TestLibrary PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

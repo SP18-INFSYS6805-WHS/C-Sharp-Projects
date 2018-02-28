@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{C9A27F69-E4C1-4E81-9463-45613D176F6B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AddingClasses/MyCustomClass.cs">
+    <Files>
+      <File FileName="AddingClasses/MyCustomClass.cs" Line="27" Column="10" />
+      <File FileName="AddingClasses/Program.cs" Line="18" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AddingClasses PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

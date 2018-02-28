@@ -1,0 +1,11 @@
+/Users/yokoref/Projects/StackDemo2/StackDemo2/bin/Debug/netcoreapp2.0/StackDemo2.deps.json
+/Users/yokoref/Projects/StackDemo2/StackDemo2/bin/Debug/netcoreapp2.0/StackDemo2.runtimeconfig.json
+/Users/yokoref/Projects/StackDemo2/StackDemo2/bin/Debug/netcoreapp2.0/StackDemo2.runtimeconfig.dev.json
+/Users/yokoref/Projects/StackDemo2/StackDemo2/bin/Debug/netcoreapp2.0/StackDemo2.dll
+/Users/yokoref/Projects/StackDemo2/StackDemo2/bin/Debug/netcoreapp2.0/StackDemo2.pdb
+/Users/yokoref/Projects/StackDemo2/StackDemo2/obj/Debug/netcoreapp2.0/StackDemo2.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/StackDemo2/StackDemo2/obj/Debug/netcoreapp2.0/StackDemo2.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/StackDemo2/StackDemo2/obj/Debug/netcoreapp2.0/StackDemo2.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/StackDemo2/StackDemo2/obj/Debug/netcoreapp2.0/StackDemo2.AssemblyInfo.cs
+/Users/yokoref/Projects/StackDemo2/StackDemo2/obj/Debug/netcoreapp2.0/StackDemo2.dll
+/Users/yokoref/Projects/StackDemo2/StackDemo2/obj/Debug/netcoreapp2.0/StackDemo2.pdb

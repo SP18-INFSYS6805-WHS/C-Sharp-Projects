@@ -1,0 +1,11 @@
+/Users/yokoref/Projects/ReadWrite_toTxtFile/ReadWrite_toTxtFile/obj/Debug/netcoreapp2.0/ReadWrite_toTxtFile.csprojResolveAssemblyReference.cache
+/Users/yokoref/Projects/ReadWrite_toTxtFile/ReadWrite_toTxtFile/obj/Debug/netcoreapp2.0/ReadWrite_toTxtFile.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/ReadWrite_toTxtFile/ReadWrite_toTxtFile/obj/Debug/netcoreapp2.0/ReadWrite_toTxtFile.AssemblyInfoInputs.cache
+/Users/yokoref/Projects/ReadWrite_toTxtFile/ReadWrite_toTxtFile/obj/Debug/netcoreapp2.0/ReadWrite_toTxtFile.AssemblyInfo.cs
+/Users/yokoref/Projects/ReadWrite_toTxtFile/ReadWrite_toTxtFile/bin/Debug/netcoreapp2.0/ReadWrite_toTxtFile.deps.json
+/Users/yokoref/Projects/ReadWrite_toTxtFile/ReadWrite_toTxtFile/bin/Debug/netcoreapp2.0/ReadWrite_toTxtFile.runtimeconfig.json
+/Users/yokoref/Projects/ReadWrite_toTxtFile/ReadWrite_toTxtFile/bin/Debug/netcoreapp2.0/ReadWrite_toTxtFile.runtimeconfig.dev.json
+/Users/yokoref/Projects/ReadWrite_toTxtFile/ReadWrite_toTxtFile/bin/Debug/netcoreapp2.0/ReadWrite_toTxtFile.dll
+/Users/yokoref/Projects/ReadWrite_toTxtFile/ReadWrite_toTxtFile/bin/Debug/netcoreapp2.0/ReadWrite_toTxtFile.pdb
+/Users/yokoref/Projects/ReadWrite_toTxtFile/ReadWrite_toTxtFile/obj/Debug/netcoreapp2.0/ReadWrite_toTxtFile.dll
+/Users/yokoref/Projects/ReadWrite_toTxtFile/ReadWrite_toTxtFile/obj/Debug/netcoreapp2.0/ReadWrite_toTxtFile.pdb

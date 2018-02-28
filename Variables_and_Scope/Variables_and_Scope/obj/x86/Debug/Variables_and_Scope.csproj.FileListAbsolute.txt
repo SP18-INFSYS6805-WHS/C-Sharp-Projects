@@ -1,0 +1,5 @@
+/Users/yokoref/Projects/Variables_and_Scope/Variables_and_Scope/obj/x86/Debug/Variables_and_Scope.csproj.CoreCompileInputs.cache
+/Users/yokoref/Projects/Variables_and_Scope/Variables_and_Scope/bin/Debug/Variables_and_Scope.exe
+/Users/yokoref/Projects/Variables_and_Scope/Variables_and_Scope/bin/Debug/Variables_and_Scope.pdb
+/Users/yokoref/Projects/Variables_and_Scope/Variables_and_Scope/obj/x86/Debug/Variables_and_Scope.exe
+/Users/yokoref/Projects/Variables_and_Scope/Variables_and_Scope/obj/x86/Debug/Variables_and_Scope.pdb
